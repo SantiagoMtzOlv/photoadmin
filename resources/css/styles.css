@@ -1,0 +1,14 @@
+body{
+    background-color: #282828;
+}
+.enlace{
+    margin-left: 1rem;
+    border-bottom: 1px solid transparent;
+    transition: all .3s ease;
+}
+.enlace:hover{
+    border-bottom: 1px solid #FFC107;
+}
+.imagen{
+    max-width: 300px;
+}
